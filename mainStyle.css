@@ -3,13 +3,7 @@
 
 body{
 	text-align: center;
-	color:#FFFFFF;
 	font-family: Arial, Helvetica, sans-serif;
-	background-image: url("images/background.jpg");
-	background-color: black;
-	background-repeat: no-repeat;
-	background-position: center top;
-	background-attachment: scroll;
 	position: absolute;
 	left: 50%;
 	width: 960px;
@@ -18,7 +12,6 @@ body{
 
 /* formatting for all the boxes */
 .box {
-	background: black;
 	border-style: solid;
 	border-width: 3px;
 	border-color: DodgerBlue;
@@ -64,7 +57,6 @@ a:active {
 
 .topnav {
   overflow: hidden;
-  background-color: black;
 }
 
 .topnav a {
